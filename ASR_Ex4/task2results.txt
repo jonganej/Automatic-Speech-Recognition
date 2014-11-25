@@ -1,0 +1,7 @@
+---
+Cost (Recursion): 720
+Recalculations saved with memoization: 249835
+Distance calculations: 125843
+---
+Cost (Dynamic programming): 720
+Distance calculations: 126280
